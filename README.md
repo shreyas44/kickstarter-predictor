@@ -1,14 +1,8 @@
 # Predicting the Probability of the state of a kickstarter campaign
 
 ## Prerequisites
-- Yarn - https://classic.yarnpkg.com/en/docs/install/
 - Docker - https://docs.docker.com/get-docker/
 - Docker Compose - https://docs.docker.com/compose/install/
-
-## Download Dependencies
-```bash
-cd client && yarn install && cd ..
-```
 
 ## Run Application
 
