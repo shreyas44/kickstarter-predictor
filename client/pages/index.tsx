@@ -37,8 +37,8 @@ export const getStaticProps: GetStaticProps = async (context) => {
   return {
     props: {
       countries: data.country,
-      categories: data.main_category,
-      subcategories: data.category,
+      categories: data.category,
+      subcategories: data.subcategory,
     }
   }
 }
