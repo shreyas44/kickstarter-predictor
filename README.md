@@ -1,5 +1,7 @@
 # Predicting the Probability of the state of a kickstarter campaign
 
+![Screen Shot 2021-01-13 at 2 54 39 PM](https://user-images.githubusercontent.com/46835608/104432695-462e2880-55af-11eb-9e34-778f90d3f43f.png)
+
 ## Prerequisites
 - Docker - https://docs.docker.com/get-docker/
 - Docker Compose - https://docs.docker.com/compose/install/
